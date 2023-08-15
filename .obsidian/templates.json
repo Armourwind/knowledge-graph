@@ -1,3 +1,5 @@
 {
-  "dateFormat": "YYYYMMDD"
+  "dateFormat": "YYYYMMDD",
+  "folder": "templater",
+  "timeFormat": "HHmmss"
 }
