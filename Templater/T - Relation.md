@@ -1,6 +1,6 @@
 ---
 uid: 20220503205346
-alias: []
+aliases: []
 type: relation
 Category: 
 tags: ["#repetition"]

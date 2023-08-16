@@ -4,14 +4,14 @@ tags:
 time: {{time:HH:mm}}
 ---
 
-# Daily Note
+### Daily Note
 
 This example will put links to yesterday's and tomorrow's notes at the top of the daily note.
 
-## Plans
+#### Plans
 
 
-## Ideas
+#### Ideas
 
 
-## Something
+#### Something

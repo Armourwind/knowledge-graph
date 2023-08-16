@@ -1,1 +1,1 @@
-# ​Knowledge graph based obsidian is under construction.​
+## ​My knowledge graph Obsidian-based is under construction.
