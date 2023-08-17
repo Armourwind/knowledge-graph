@@ -6,12 +6,20 @@ time: {{time:HH:mm}}
 
 ### Daily Note
 
-This example will put links to yesterday's and tomorrow's notes at the top of the daily note.
 
 #### Plans
 
+- [ ] First
+- [ ] Second
+- [ ] Third
 
 #### Ideas
-
+- one
+- two
+- 
 
 #### Something
+
+1. 1
+2. 2
+3. 3

@@ -1,6 +1,7 @@
 ---
-uid: 20220503205346
-aliases: []
+uid: {{date:YYYYMMDD}}{{time:HHmmss}}
+aliases:  
+ - 
 type: relation
 Category: 
 tags: ["#repetition"]

@@ -1,7 +1,11 @@
 ---
-uid: 20221105230647
-aliases: [属性]
+uid: {{date:YYYYMMDD}}{{time:HHmmss}}
+aliases: 
+ - 
 type: concept
 Category: 
 tags: ["#repetition"]
 ---
+
+
+## Definition
