@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2023-08-16-周三.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2023-08-16-周三.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2023-08-16-周三.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2023-08-16-周三.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,42 +155,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7fa618d0adc57ed8",
+  "active": "9b8b0abb71c61910",
   "lastOpenFiles": [
-    "templater/T - Daily Note.md",
-    "daily/2023-08-16-周三.md",
-    "daily/2023-08-15.md",
-    "daily/2023-08-16.md",
-    "resume/Skill Description.md",
-    "templater/T - Technique - en.md",
-    "templater/Tool.md",
-    "templater/T - Concept.md",
-    "templater/T - Relation.md",
-    "README.md",
-    "templater/T - New Note.md",
-    "templater/CHANGELOG.md",
-    "resume",
-    "templater/Golang.md",
-    "templater/Checkboxes.md",
-    "templater/Overview.md",
-    "templater/T- Relation.md",
-    "templater/父母心理控制-关系-内化问题行为.md",
-    "templater/A concept.md",
-    "templater/kanban/Priority.md",
-    "templater/kanban/Kanban.md",
-    "templater/kanban/Done.md",
-    "templater/kanban/Backlog.md",
-    "{{2023-08-14}}.md",
-    "{{tp_yesterday}}.md",
-    "Untitled.md",
-    "templater/books/@butcher2016go.md",
-    "Templater/researcher/images/panda.jpg",
-    "templater",
-    "Yearly",
-    "New folder (2)",
+    "draft/weekly",
+    "draft/New folder",
+    "template/resume/Skill Description.md",
+    "template/resume",
+    "template/kanban/Priority.md",
+    "template/kanban/Kanban.md",
+    "template/kanban/Done.md",
+    "template/kanban/Backlog.md",
+    "template/books/Saini (2017) – Inferior.md",
+    "template/books/Book.md",
+    "template/books/Csikszentmihalyi (2008) – Flow.md",
+    "template/books/@butcher2016go.md",
+    "template/Tool.md",
+    "template/T - New Note.md",
+    "template/T - Relation.md",
+    "template/T - Technique - en.md",
+    "template/T - Daily Note.md",
+    "template/Overview.md",
+    "template/kanban",
+    "template/T - Concept.md",
+    "template/Golang.md",
+    "template/Checkboxes.md",
+    "template/CHANGELOG.md",
+    "template/books",
+    "template/A concept.md",
+    "template",
+    "formal",
     "New folder",
-    "daily",
-    "Weekly",
-    "weekly"
+    "draft",
+    "templater/Tool.md",
+    "templater/T - Technique - en.md",
+    "templater/T - Relation.md",
+    "templater/T - New Note.md",
+    "templater/T - Daily Note.md",
+    "templater/kanban",
+    "templater/books",
+    "Templater/researcher/images/panda.jpg"
   ]
 }
